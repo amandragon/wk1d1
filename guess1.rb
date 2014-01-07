@@ -16,3 +16,5 @@ while true
 		puts "The number is higher than #{guess}. Guess again."
 	end
 end
+
+#Nice work :)
