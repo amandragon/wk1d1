@@ -1,3 +1,6 @@
+#comment
+
+
 puts "Enter a string."
 string=gets.chomp
 word=''
