@@ -1,4 +1,4 @@
-#comment
+
 
 
 puts "Enter a string."
